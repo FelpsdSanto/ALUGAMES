@@ -2,6 +2,17 @@
 
 Este projeto implementa um sistema de aluguel de boardgames. Ele permite que os usuários visualizem os jogos disponíveis para aluguel, e alterem o status dos jogos entre "Alugar" e "Devolver". O estado do jogo é atualizado tanto na interface gráfica (imagem e botão) quanto no texto exibido ao usuário.
 
+## Como acessar o projeto
+
+Você pode acessar o projeto diretamente no navegador clicando no link abaixo:
+
+[Visite o projeto AluGames](https://alugames-three-green.vercel.app/)
+
+## Como funciona?
+
+O projeto está disponível para visualização ao abrir o arquivo `index.html` em seu navegador.
+
+
 ## Funcionalidade
 
 A função `alterarStatus(id)` realiza as seguintes ações:
